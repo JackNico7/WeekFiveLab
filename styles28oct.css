@@ -1,0 +1,17 @@
+.img-thumbnail{
+	Height:70%;
+	width:70%
+}
+body{
+	background-color: #D3D3D3;
+}
+
+p{
+	font-family: 'Amaranth', sans-serif;
+	color:#0021FF;
+}
+h1{ 
+  font-family: 'Montserrat', sans-serif;
+  color: #38B6FF;
+   font-size: 18px;
+}
